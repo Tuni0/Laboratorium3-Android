@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "565818143325",
+    "firebase_url": "https://fir-3a079-default-rtdb.firebaseio.com",
+    "project_id": "fir-3a079",
+    "storage_bucket": "fir-3a079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565818143325:android:61d6eb7b57bdc078edd3b4",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_H-rTa0qWyvBc4Ex_tU-SdYfkDdyx-gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565818143325:android:b7a2b63eb849b2d4edd3b4",
+        "android_client_info": {
+          "package_name": "com.example.lab4_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_H-rTa0qWyvBc4Ex_tU-SdYfkDdyx-gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
